@@ -1,0 +1,59 @@
+{
+  "_from": "ued-cli",
+  "_id": "ued-cli@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-/jo9MqugBAZdSZL37eeF0VxjQ6ZqGWafRe+89N+LlsOrml0sxWwXRqTgkOS3zofan4rR01FGs5euVgAPHJuvvA==",
+  "_location": "/ued-cli",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "ued-cli",
+    "name": "ued-cli",
+    "escapedName": "ued-cli",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ued-cli/-/ued-cli-1.0.0.tgz",
+  "_shasum": "7e4410607243b69b268602850b13a83d17e2c0c4",
+  "_spec": "ued-cli",
+  "_where": "D:\\workspace\\study\\ued-cli",
+  "author": {
+    "name": "yangyanfei"
+  },
+  "bin": {
+    "ued-cli": "bin/ued-cli.js"
+  },
+  "bugs": {
+    "url": "https://github.com/Yapril/ued-cli/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.16.0",
+    "download-git-repo": "^1.0.2",
+    "fs": "0.0.1-security",
+    "inquirer": "^6.0.0",
+    "ora": "^3.0.0",
+    "path": "^0.12.7"
+  },
+  "deprecated": false,
+  "description": "ued静态构建工具\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C构建工具",
+  "homepage": "https://github.com/Yapril/ued-cli#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "ued-cli",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yapril/ued-cli.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
